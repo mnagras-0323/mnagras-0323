@@ -7,6 +7,6 @@
 - 🇯🇵 Bilingual: English (Native) / Japanese (Intermediate).
  
 ### Tech Stack
-- **Languages:** Python (Pandas, PyTorch, Scikit-learn), Java (Spring Boot), SQL, Scala.
-- **Infrastructure:** AWS, GCP, Docker, Kubernetes, Jenkins, Airflow.
-- **Frontend:** Angular, React (Great for internal Data Viz tools).
+- **Languages:** Python (Pandas, PyTorch, Scikit-learn), Java (Spring Boot), SQL.
+- **Infrastructure:** GCP, Docker, Kubernetes, Jenkins, AWS.
+- **Frontend:** Angular, React, Typescript.
